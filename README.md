@@ -68,9 +68,13 @@ I hold a Bachelor degree in Computer Science with a focus on data analytics.
   -  **Technologies Used**: Python, Google Colaboratory.
     
  ### Excel Modelling
- - **Project Name**: [Project Title](link-to-project)
- -  **Description**: Brief description of what the project does and its key features.
- -  **Technologies Used**: List the functions and techniques used in the project. 
+ - **Project Name 1**: [START Dashboard Learner](https://docs.google.com/spreadsheets/d/15OLudh4FPWRMBk_KEJ0PK3YJir6Ht6AF/edit?usp=drive_link&ouid=109749648980064452168&rtpof=true&sd=true)
+ -  **Description**: Sales Dashboard for South America in 2022.
+ -  **Technologies Used**: Excel,Bing maps.
+
+ -   - **Project Name 2**: [Gross Domestic Product Report](https://drive.google.com/file/d/1X3F1scDZuHkIE2KEDE0LEhrzEHcxyV1N/view?usp=drive_link)
+ -  **Description**: Gross Domestic Product Report.
+ -  **Technologies Used**: Excel, Macros. 
 
 
 
