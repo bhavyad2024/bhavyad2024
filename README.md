@@ -48,10 +48,15 @@ I hold a Bachelor degree in Computer Science with a focus on data analytics.
   -   **Technologies Used**: List the features and tables used in the project.
  
  ### MySQL
- - **Project Name**: [Project Title](link-to-project)
- -  **Description**: Brief description of what the project does and its key features.
- -   **Technologies Used**: List the features and databases used in the project.
- 
+ - **Project Name**: [World Database](https://sites.google.com/d/1Gwjtj5ztK6zovffJHZ4zSKR6_1-VyZfa/p/17WyV-2uMsQVSpOdy6Hiqv6ZMppXJDXxg/edit)
+ -  **Description**: I have worked on a World database by importing the script into MySQL and then executed different queries to analyse the tables inside the database.
+ -   **Technologies Used**: SQL, Workbench
+
+ - **Project Name 2**: [ERR Diagram](https://sites.google.com/d/1Gwjtj5ztK6zovffJHZ4zSKR6_1-VyZfa/p/17WyV-2uMsQVSpOdy6Hiqv6ZMppXJDXxg/edit)
+ - **Desription**: This is an Enhanced Entity- Relationship(EER) diagram  for sql_store database which provides a visual representation of the relationships among the tables in the 
+   model.
+- **Technologies Used**: SQL, Workbench
+
   ### Python and Pandas
   - **Project Name**: [Project Title](link-to-project)
   -  **Description**: Brief description of what the project does and its key features.
