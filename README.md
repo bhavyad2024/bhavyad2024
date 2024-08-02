@@ -14,12 +14,13 @@ I hold a Bachelor degree in Computer Science with a focus on data analytics.
 🧩 Skilled in data cleaning, exploratory data analysis (EDA), and statistical modelling. 
 🌐 Curious about web scraping and API integration. 
 
-**Projects** 
+* 🌍  I'm based in London
+* ✉️  You can contact me at [bhavyad2024@gmail.com]
+* 🧠  I'm learning R, Pandas
+* 🤝  I'm open to collaborating on Health Economics, Healthcare projects
 
-1. **Customer Segmentation** using K-Means Clustering Employed K-Means clustering to identify distinct customer segments based on their purchasing behavior. Cleaned and preprocessed e-commerce transaction data. Visualized segment characteristics using scatter plots and bar charts.
-   
-3. **Predictive Modeling** for Loan Approval Developed a logistic regression model to predict loan approval probabilities. Engineered features and handled missing data. Achieved an accuracy of 82% on the test set.
-4. **Exploratory Data Analysis:** Airbnb Listings in London Explored Airbnb listings data for various London neighborhoods. Created interactive visualizations using Plotly. Uncovered pricing trends and popular neighborhoods. 
+  
+**Projects** 
 
 
  ### R
@@ -33,9 +34,13 @@ I hold a Bachelor degree in Computer Science with a focus on data analytics.
  -   **Technologies Used**: List the features and data sources used in the project.
    
  ### Tableau
- - **Project Name**: [Project Title](link-to-project)
- -  **Description**: Brief description of what the project does and its key features.
- -   **Technologies Used**: List the features and data sources used in the project.
+ - **Project Name 1**: [Wealth of Nations Dashboard](https://public.tableau.com/app/profile/bhavya.danturi8159/viz/TheWealthofNations_17187505926550/TheWealthofNationsDashboard?publish=yes)
+ -  **Description**: This project focuses on analyzing the "Wealth of Nations" dataset, involving a comprehensive process of data cleaning, sorting, and filtering using Excel. In addition to these methodologies, I have enhanced my analysis with the creation of different visuals and an interactive dashboard in Tableau showcasing the Top 20 countries based on their total GDP, Smartphone users,their Life excepectancy and the Ranking. These visualizations provide a deeper understanding of the dataset’s insights, showcasing economic trends and socio-economic indicators across thenations. .
+ -   **Technologies Used**: Tableau, Excel.
+
+  -  **Project Name 2**: [Bike Sales Dashboard](https://public.tableau.com/app/profile/bhavya.danturi8159/viz/BikeSalesDashboard_17201862188540/BikeSalesDashboard)
+ -  **Description**: In this project, I have analysed a bike sales data and created a dashboard showing the Customer demographics, monthly sales trend, profit by country and product category by sales.
+ -   **Technologies Used**: Tableau, Excel.
   
   ### Access
   - **Project Name**: [Project Title](link-to-project)
@@ -64,10 +69,7 @@ I hold a Bachelor degree in Computer Science with a focus on data analytics.
 
 
 
-* 🌍  I'm based in London
-* ✉️  You can contact me at [training.justit@gmail.com](mailto:training.justit@gmail.com)
-* 🧠  I'm learning R, Pandas
-* 🤝  I'm open to collaborating on Health Economics, Healthcare projects
+
 
 ### Skills
 
