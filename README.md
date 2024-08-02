@@ -58,14 +58,14 @@ I hold a Bachelor degree in Computer Science with a focus on data analytics.
 - **Technologies Used**: SQL, Workbench
 
   ### Python and Pandas
-  - **Project Name**: [Project Title](link-to-project)
-  -  **Description**: Brief description of what the project does and its key features.
-  -   **Technologies Used**: List the libraries/packages used in the project. 
+  - **Project Name 1**: [Leap Year](https://drive.google.com/file/d/1WIYJLP6ky91vzdYvCwP-z0hB58XebS3k/view?usp=sharing)
+  -  **Description**: This is a program which displays a particular year is a leap year or not based on certain conditions.
+  -   **Technologies Used**: Python,Google Colaboratory. 
  
   ### DP900
-  - **Project Name**: [Project Title](link-to-project)
-  -  **Description**: Brief description of what the project does and its key features.
-  -   **Technologies Used**: List the tools and concepts used in the project.
+  - **Project Name**: [Word Replacement Program](https://drive.google.com/file/d/15hy-i2nY_iqfBqbRroE0qyYXzqWShmyd/view?usp=sharing)
+  -  **Description**: This program is designed to replace a word in a string with a new word which the user prompts to replace it with.
+  -  **Technologies Used**: Python, Google Colaboratory.
     
  ### Excel Modelling
  - **Project Name**: [Project Title](link-to-project)
