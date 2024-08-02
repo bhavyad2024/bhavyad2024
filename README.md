@@ -88,22 +88,22 @@ I hold a Bachelor degree in Computer Science with a focus on data analytics.
    <a href="https://tableau.com/" target="_blank" rel="noreferrer; return false;"><img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/tableau.svg" width="163" height="36" alt="Tableau Logo" /></a>&nbsp;&nbsp;
 </p>
 
-**Skills Snapshot Languages**: Python, SQL Data Manipulation: Pandas, NumPy Data Visualization: Matplotlib, Seaborn, Plotly Machine Learning: Scikit-Learn Version Control: Git, GitHub
+**Skills Snapshot Languages**: Python, Microsoft Excel, Access, Microsoft Azure Data Fundamentals,SQL,Data Manipulation: Pandas, NumPy Data Visualization: Matplotlib, Seaborn, Plotly Machine Learning: Scikit-Learn Version Control: Git, GitHub
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/Ali06112023" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
+<p align="left"> <a href="https://www.github.com/bhavyad2024" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
 
 ### Badges
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Ali06112023"><img src="https://github-readme-stats.vercel.app/api?username=Ali06112023&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Ali06112023's GitHub stats" /></a>
+<a href="http://www.github.com/bhavyad2024"><img src="https://github-readme-stats.vercel.app/api?username=bhavyad2024&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="bhavyad2024's GitHub stats" /></a>
 
-<a href="http://www.github.com/Ali06112023"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ali06112023&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/bhavyad2024"><img src="https://github-readme-streak-stats.herokuapp.com/?user=bhavyad2024&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/Ali06112023" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali06112023&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/bhavyad2024" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavyad2024&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<a href="http://www.github.com/Ali06112023"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Ali06112023&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/bhavyad2024"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=bhavyad2024&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 
