@@ -10,9 +10,9 @@ Welcome to My GitHub Portfolio ! 👋 Hi there! I’m Bhavya, an aspiring data a
 **About Me** 🎓 
 
 I hold a Bachelor degree in Computer Science with a focus on data analytics. 
-📊 Proficient in Python, SQL, and data visualization tools (Matplotlib, Seaborn). 
+📊 Proficient in Python, SQL,Microsoft Excel, Access and data visualization tools (Tableau,Power BI,Matplotlib, Seaborn). 
 🧩 Skilled in data cleaning, exploratory data analysis (EDA), and statistical modelling. 
-🌐 Curious about web scraping and API integration. 
+🌐 Curious about learning latest technologies and AI. 
 
 * 🌍  I'm based in London
 * ✉️  You can contact me at [bhavyad2024@gmail.com]
