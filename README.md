@@ -49,6 +49,7 @@ I hold a Bachelor degree in Computer Science with a focus on data analytics.
  
  ### MySQL
  - **Project Name**: [World Database](https://sites.google.com/d/1Gwjtj5ztK6zovffJHZ4zSKR6_1-VyZfa/p/17WyV-2uMsQVSpOdy6Hiqv6ZMppXJDXxg/edit)
+ - [World Database page on Github](https://github.com/bhavyad2024/MySQL)
  -  **Description**: I have worked on a World database by importing the script into MySQL and then executed different queries to analyse the tables inside the database.
  -   **Technologies Used**: SQL, Workbench
 
